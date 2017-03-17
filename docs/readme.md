@@ -6,4 +6,4 @@ Aqui estão os fontes para gerar este site, além do site temos o Wiki do projet
 
 ## ARquivos
 
- * [Index][index.md] - Este arquivo é a página inicial de nosso site.
+ * [Index](index.md) - Este arquivo é a página inicial de nosso site.
