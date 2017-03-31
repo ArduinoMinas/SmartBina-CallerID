@@ -15,11 +15,11 @@ O esquema abaixo é do Shield, lembre-se que é preciso também a plaquinha de r
 Para retificar o sinal telefônico e extrair o áudio é preciso o circuito abaixo:
 
 
-![PCB](./Retificador de Entrada/Retificador Audio V 0.1.2_Esquemático.png)
+![PCB](../Retificador de Entrada/Retificador Audio V 0.1.2_Esquemático.png)
 
-![Placa Ilhada](./Retificador de Entrada/Retificador Audio V 0.1.2b_bb.png)
+![Placa Ilhada](../Retificador de Entrada/Retificador Audio V 0.1.2b_bb.png)
 
-![PCB](./Retificador de Entrada/Retificador Audio V 0.1.2_pcb.png)
+![PCB](../Retificador de Entrada/Retificador Audio V 0.1.2_pcb.png)
 
 # Como montar
 
