@@ -1,8 +1,13 @@
 Esquemas dos circuitos para montagem via Shield do bina básico.
 
-# Esquema do Shield
+# Explicando a Pinagem
+
+
 
 [Para a descrição básica dos pinos e como funciona, clique aqui](descricao).
+
+
+# Esquema do Shield
 
 O esquema abaixo é do Shield, lembre-se que é preciso também a plaquinha de retificação de sinal e extração de audio que está descrita na seção logo a seguir:
 
