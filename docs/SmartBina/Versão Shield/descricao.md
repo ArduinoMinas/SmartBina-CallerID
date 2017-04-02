@@ -17,10 +17,11 @@ Ao termino da leitura da sequência completa recebida antes do Toque é importan
 
 # O processo se resume:
 
- 1 Sistema aguardando ligação
- 2 o circuito alerta a chegada de um digito em DTMF
- 3 o arduino recebe a interrupção gerada por StD e lê o sinal DTMF
- 4 volta ao 2 até que seja composta a sequeência, se sequencia completa continua no passo 5 (é preciso verificar qual o tempo enviado entre DTMF e todo o DTMF da operadora.)
- 5 desativa pinos Q enviando o sinal para a porta DOE
- 6 envia para a porta serial a representação em string do DTMF recebido
- 7 aguarda receber na porta serial um comando para que volte ao passo 1
+ 1. Sistema aguardando ligação
+ 2. o circuito alerta a chegada de um digito em DTMF
+ 3. o arduino recebe a interrupção gerada por StD e lê o sinal DTMF
+ 4. volta ao 2 até que seja composta a sequeência, se sequencia completa continua no passo 5 (é preciso verificar qual o tempo enviado entre DTMF e todo o DTMF da operadora.)
+ 5. desativa pinos Q enviando o sinal para a porta DOE
+ 6. envia para a porta serial a representação em string do DTMF recebido
+ 7. aguarda receber na porta serial um comando para que volte ao passo 1
+  
