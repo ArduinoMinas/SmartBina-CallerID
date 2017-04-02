@@ -1,0 +1,3 @@
+[submodule "src/libraries/Goertzel_DTMF"]
+	path = src/libraries/Goertzel_DTMF
+	url = git@github.com:ArduinoMinas/Goertzel.git
