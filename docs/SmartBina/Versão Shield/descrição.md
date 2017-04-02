@@ -1,3 +1,10 @@
+---
+redirect_from: descricao/
+title: Funcionamento, Algoritmo e Descrição do circuito
+description: Nesta página descrevo o funcionamento do circuito, qual o algoritmo para coletar o dados enviados via DTMF e descrevo mais detalhes do circuito.
+tags: [DTMF, Interrupção, StD, DOE, MT8870, Sequência, String]
+---
+
 # Descrição dos pinos para montagem do SmartBina Shield
 
 Aqui nesta página apresentarei apenas os detalhes básicos para entendimento do funcionamento do SmartBina Shield.
