@@ -5,11 +5,11 @@ const int STQ = 3;
  const int Q1 = A3;
 
 void setup() {
-  pinMode(STQ, INPUT);
-  pinMode(Q4, INPUT);
-  pinMode(Q3, INPUT);
-  pinMode(Q2, INPUT);
-  pinMode(Q1, INPUT);
+  pinMode(STQ, INPUT_PULLUP);
+  pinMode(Q4, INPUT_PULLUP);
+  pinMode(Q3, INPUT_PULLUP);
+  pinMode(Q2, INPUT_PULLUP);
+  pinMode(Q1, INPUT_PULLUP);
 }
 
 
