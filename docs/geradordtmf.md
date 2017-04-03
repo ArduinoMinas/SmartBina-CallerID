@@ -1,6 +1,7 @@
 ---
 title: Gerador de Tons DTMF
 ---
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="/js/DTMFgenerator.js"></script>
 <p id="info">
 The Online Tone Generator can be used to create Dual Tone Multi Frequency (DTMF) signals commonly heard on telephone dial pads.
