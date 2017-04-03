@@ -4,9 +4,11 @@ title: Gerador de Tons DTMF
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="./js/DTMFgenerator.js"></script>
 <p id="info">
-The Online Tone Generator can be used to create Dual Tone Multi Frequency (DTMF) signals commonly heard on telephone dial pads.
-Each tone is simply the sum of two sine waves. Click and hold the dial pad buttons to hear each tone.
-<!-- Each country uses slightly different frequencies; the ones on this page are from the UK. --><!-- See .S. Brown, ``A new method of tone identification'', Post Office Electrical Engineers' Journal 71(2) 117-121 (1978) for more details.http://www-users.cs.york.ac.uk/~fisher/telecom/tones/-->
+O Gerador de Tom online pode ser usado para criar tons do tipo DTMF (Dual Tone Multi Frequency)
+
+<p> Cada paiz usa frequências diferentes, visite esta página para verificar as frequências no Reino Unido:Each country uses slightly different frequencies; the ones on this page are from the UK. </p>
+
+<p>http://www-users.cs.york.ac.uk/~fisher/telecom/tones/
 </p>
 
 <table class="dialpad">
