@@ -4,7 +4,7 @@ Esquemas dos circuitos para montagem via Shield do bina básico.
 
 
 
-[Para a descrição básica dos pinos e como funciona, clique aqui](descricao).
+[Para a descrição básica dos pinos e como funciona, clique aqui](descrição.md).
 
 
 # Esquema do Shield
